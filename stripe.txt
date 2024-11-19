@@ -1,0 +1,1 @@
+stripe listen --forward-to http://localhost:5001/fullstack-grocery-delivery-app/us-central1/app/api/products/webhook
